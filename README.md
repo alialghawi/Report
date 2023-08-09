@@ -13,6 +13,11 @@ pip install -r requirements.txt
 python ./predict_image.py --test.jpg
 
 ```
+## 3. Run inference using Gradio
+```
+python ex.py
+
+```
 
 
 
